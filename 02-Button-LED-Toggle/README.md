@@ -34,7 +34,7 @@ while (1)
 			HAL_Delay(50);
 		}
 }
-
+```
 ----
 
 <img width="1178" height="493" alt="image" src="https://github.com/user-attachments/assets/a1c80384-1333-469c-bee0-b117bae35b3b" />
