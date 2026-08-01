@@ -17,6 +17,7 @@
 ----
 
 ----
+```c
  while (1)
   {
 	
@@ -29,7 +30,7 @@
 	  	      HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 	  	  }
 }
-
+```
 ----
 
 <img width="1178" height="493" alt="image" src="https://github.com/user-attachments/assets/a1c80384-1333-469c-bee0-b117bae35b3b" />
